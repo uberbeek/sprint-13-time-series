@@ -38,13 +38,13 @@ In the end, the linear regression model was the best, outperforming the others a
 
 Here are two key moments from the analysis:
 
-![Actual vs Predicted Plot](project-13-screenshot-1.png)  
-*Model predictions closely track actual taxi demand over time, capturing key peaks and dips with minimal error.*
+![Feature Importance Plot](project-13-screenshot-1.png)  
+*Feature importances from the random forest model show lag values and hour of day as the most informative predictors of demand.*
 
 <br>
 
-![Feature Importance Plot](project-13-screenshot-2.png)  
-*Feature importances from the random forest model show lag values and hour of day as the most informative predictors of demand.*
+![Actual vs Predicted Plot](project-13-screenshot-2.png)  
+*Model predictions closely track actual taxi demand over time, capturing key peaks and dips with minimal error.*
 
 ---
 
